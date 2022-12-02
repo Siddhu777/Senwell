@@ -1,0 +1,22 @@
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
